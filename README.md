@@ -19,3 +19,6 @@ Ce site est automatiquement déployé sur GitHub Pages à chaque push
 sur la branche main.
 ## Contact
 N’hésitez pas à me contacter pour toute question ou opportunité !
+
+## Voir le site en ligne
+[Visiter mon portfolio](https://khalil1378.github.io/mon-portfolio/)
